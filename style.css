@@ -1,0 +1,313 @@
+
+
+.main{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.one{
+
+    border-width: 2px  ;
+    border-style: solid;
+    border-radius: 7px;
+    border-color: red yellow green blue;
+    height: 100px;
+    width: 120px;
+    padding: 10px;  
+   
+}
+.two{
+
+  border-color: red yellow green blue;
+  border-width: 4px;
+  border-radius: 15px;
+   border-style: solid;
+    height: 100px;
+    width: 120px;
+    padding: 10px;
+    
+}
+.three{
+
+  border-color: red yellow green blue;
+  border-width: 4px;
+  border-radius: 25px;
+   border-style: solid;
+    height: 100px;
+    width: 120px;
+    padding: 10px;
+   
+}
+.four{
+      border-bottom-color: white ;
+      border-left-color: blue ;
+      border-right-color: yellow ;
+      border-top-color: red;
+  border-width: 4px;
+  border-radius: 30px;
+   border-style: solid;
+    height: 100px;
+    width: 120px;
+    padding: 10px;
+
+}
+.five{
+ border-bottom-color: white ;
+      border-left-color: blue ;
+      border-right-color: yellow ;
+      border-top-color: red;
+    border-radius: 30px 70px 0px 0px;
+  border-width: 4px;
+  border-style: solid;
+   height: 100px;
+    width: 120px;
+    padding: 10px;
+}
+.six{
+    border-color: red yellow green blue;
+      border-style: solid;
+      border-width: 2px 5px 8px 17px;
+       border-radius: 30px 70px 0px 90px;
+   height: 100px;
+    width: 120px;
+    padding: 10px;
+}
+.seven{
+         border-color: red yellow green blue;
+      border-style: solid;
+      border-radius: 60%;
+        height: 70px;
+    width: 90px;
+    padding: 20px;
+}
+.eight{
+      border-color: red yellow green blue;
+      border-style: solid;
+    border-radius: 60px 60px 0px 0px;
+          height: 80px;
+    width: 90px;
+      padding: 15px;
+}
+.nine{
+  
+    border-color: red yellow green blue;
+      border-style: solid;
+      border-width: 20px;
+      border-radius: 15px;
+        height: 90px;
+    width: 120px;
+    padding: 10px;
+}
+.ten{
+      border-color: red yellow green blue;
+      border-radius: 30px;
+    border-width: 30px;
+       border-style: solid;
+        height: 90px;
+    width: 120px;
+    padding: 10px;
+}
+/* pag2 2 */
+
+
+.box-1{
+border: 2px solid grey;
+border-radius: 10px;
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+ height: 100px;
+     width: 110px;
+     padding: 15px;
+}
+
+.box-2{
+border: 5px solid grey;
+border-radius: 18px;
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+ height: 100px;
+     width: 110px;
+     padding: 15px;
+
+}
+.box-3{
+  border: 5px solid grey;
+border-radius: 28px;
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+ height: 100px;
+     width: 110px;
+     padding: 15px;  
+}
+.box-4{
+border: 5px solid ;
+border-bottom-color: white ;
+      border-left-color: rgb(137, 137, 141) ;
+      border-right-color:  rgb(137, 137, 141);
+      border-top-color:  rgb(137, 137, 141);
+border-radius: 30px;
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+ height: 100px;
+     width: 110px;
+     padding: 15px;
+}
+.box-5{
+     background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+     border-radius: 30px 70px 0px 0px; 
+     border-width: 5px;
+     border-style: solid;
+   border-bottom-color: white ;
+      border-left-color: rgb(137, 137, 141) ;
+      border-right-color:  rgb(137, 137, 141);
+      border-top-color:  rgb(137, 137, 141);
+ height: 100px;
+     width: 110px;
+     padding: 15px;
+}
+.box-6{
+       background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+      border-width: 2px 5px 8px 17px;
+       border-radius: 30px 70px 0px 90px;
+       border-color: grey;
+         border-style: solid;
+          height: 100px;
+     width: 110px;
+     padding: 15px;
+}
+.box-7{
+      background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+    border-radius: 60px 60px 0px 0px;
+      border-style: solid;
+      border-width: 5px;
+      border-radius: 60%;
+       border-color: grey;
+         height: 100px;
+     width: 110px;
+       padding: 20px;
+}
+.box-8{
+       background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+        border-style: solid;
+    border-radius: 90px 90px 0px 0px;
+    border-width: 5px;
+     border-color: rgb(184, 130, 130);
+         height: 90px;
+     width: 100px;
+       padding: 10px;
+  
+}
+.box-9{
+    background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+        border-style: solid;
+        border-width: 23px; 
+        border-radius: 15px;
+          border-color: grey;
+
+         height: 90px;
+     width: 100px;
+       padding: 10px;
+
+       float: left;
+       margin-right: 15px;
+
+       
+}
+.box-10{
+        background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+      border-radius: 30px;
+    border-width: 30px; 
+       border-style: solid;
+          height: 90px;
+     width: 100px;
+       padding: 10px; 
+       float: left;
+         border-color: grey;
+}
+/* page 3 */
+hr{
+  width: 100%;
+}
+.main3{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.container-1{
+  border-radius: 10px;
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+ height: 100px;
+     width: 120px;
+     padding: 10px;
+}
+.container-2{
+  border-radius: 15px;
+    height: 100px;
+    width: 120px;
+    padding: 10px; 
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+}
+.container-3{
+border-radius: 25px;
+    height: 100px;
+    width: 120px;
+    padding: 10px; 
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+
+}
+.container-4{
+  border-radius: 30px;
+    height: 100px;
+    width: 120px;
+    padding: 10px; 
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+}
+
+.container-5{
+    border-radius: 30px 70px 0px 0px; 
+   height: 100px;
+    width: 120px;
+    padding: 10px; 
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+}
+.container-6{
+  border-radius: 30px 70px 0px 90px;
+   height: 100px;
+    width: 120px;
+    padding: 10px; 
+background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+}
+.container-7{
+   background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+      border-radius: 60%;
+       height: 100px;
+    width: 120px;
+    padding: 15px; 
+}
+.container-8{
+   background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+   border-radius: 90px 90px 0px 0px;
+       height: 100px;
+    width: 120px;
+    padding: 15px; 
+}
+.container-9{
+     background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+
+    border-radius: 15px;
+    height: 100px;
+    width: 120px;
+    padding: 10px; 
+
+     float: left;
+     margin-right: 15px;
+}
+.container-10{
+
+     background: linear-gradient(to bottom, #FFCC00 0%, #FF8800 50%, #FF2200 100%);
+
+      border-radius: 30px;
+    height: 100px;
+    width: 120px;
+    padding: 10px; 
+
+     float: left;
+}
